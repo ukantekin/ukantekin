@@ -1,3 +1,3 @@
 - 👋 Hi, I am Full Stack Developer .NET & Java & Modern Web
 - 👀 I’m interested in microservices architecture
-- 🌱 I’m currently learning Designing a platform library for developing Reactive, Event-Driven, Secure, Resilient and Faster micro-services using SpringBoot and SpringCloud.
+- 🌱 I’m currently learning Designing a platform library for developing Reactive, Event-Driven, Secure, Resilient and Faster micro-services using SpringBoot and SpringCloud
